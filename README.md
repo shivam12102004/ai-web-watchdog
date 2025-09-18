@@ -1,23 +1,23 @@
-# 🛡️ AI Web Watchdog
+#  AI Web Watchdog
 
 A smart AI-powered web analysis tool that inspects any webpage and predicts whether it is a phishing/scam, blog, ecommerce, or informational site — with the help of GPT and web scraping.
 
 ---
 
-## 🔍 Features
+##  Features
 
-- 🌐 URL-based content scraping (title, description, full text)
-- 🧠 GPT-4o powered content analysis
-- ⚠️ Phishing detection with confidence score
-- 🌍 Language detection
-- 🗣️ Tone detection (fear, urgency, etc.)
-- 🔎 Domain info extraction (`tldextract`)
-- 🛑 Meta description fallback handling
-- ✅ Clean React frontend interface
+-  URL-based content scraping (title, description, full text)
+-  GPT-4o powered content analysis
+-  Phishing detection with confidence score
+-  Language detection
+-  Tone detection (fear, urgency, etc.)
+-  Domain info extraction (`tldextract`)
+-  Meta description fallback handling
+-  Clean React frontend interface
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js (no Tailwind used)
 - **Backend:** Python Flask
@@ -27,7 +27,7 @@ A smart AI-powered web analysis tool that inspects any webpage and predicts whet
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ### 1. Clone the repository
 
